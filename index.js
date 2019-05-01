@@ -1,6 +1,6 @@
 const Commando = require("discord.js-commando");
 const bot = new Commando.Client();
-const token = "NTUwMDg4MTY0MDc3NzMxODQw.D1dgHw.qqKlzn2wR0nNTt4ITxA8_jjjp6Y";
+const token = "";
 
 //let date = new Date();
 //let currentTimeSecs = date.getTime() / 1000;
